@@ -59,25 +59,6 @@ UnoGame/
 └── .gitignore
 ```
 
-## How to Compile and Run
-
-### Option 1: Command Line
-```bash
-# Navigate to the project directory
-cd UnoGame
-
-# Compile all Java files
-javac src/ca/sheridancollege/project/*.java
-
-# Run the game
-java -cp src ca.sheridancollege.project.Main
-```
-
-### Option 2: Using an IDE
-1. Import the project into your IDE (Eclipse, IntelliJ IDEA, NetBeans)
-2. Ensure the `src` folder is marked as the source root
-3. Run the `Main.java` class
-
 ## How to Play
 1. Run the program
 2. Enter names for two players when prompted
